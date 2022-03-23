@@ -1,0 +1,112 @@
+
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.encabezado{
+
+    background-image: url("../Imagenes/fondo.png");
+    text-align: center;
+
+}
+
+.navegacionUl{
+
+    background-color:#2A2A2A;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 0 50px 0;
+
+}
+
+.navegacionLi{
+
+    display: inline;
+    text-align: center;
+    margin: 0 50px 0 0;
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: whitesmoke;
+    
+}
+
+.linksEncabezado{
+
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: #2A2A2A;
+    
+}
+
+.titulo1{
+
+    
+    text-indent: 100px;
+    font-size: 150px;
+
+}
+
+
+.body{
+    
+    text-align: center;
+    background-color:#FFFFFF;
+
+}
+
+.nombresPasteles{
+
+    background-color: #e394b4;
+    text-align: center;
+    font-weight:bold;
+
+} 
+
+.tabla{
+    
+    border-collapse: collapse;
+    margin-left: 150px;
+    border-collapse: collapse;
+    border: black 5px solid;
+    margin-bottom: 100px;
+
+}
+
+.td{
+    width: 25%;
+    vertical-align: center;
+    border: 1px solid #000;
+ }
+ .tr{
+    
+    width: 25%;
+    vertical-align: center;
+    border: 1px solid #000;
+
+ }
+
+
+
+.textoIzquierda{
+
+    text-align: left;
+}
+
+.margen{
+
+    
+    margin-bottom: 50px;
+
+}
+
+.pie{
+
+background: rgb(174,135,182);
+background: linear-gradient(0deg, rgba(174,135,182,1) 0%, rgba(239,183,201,1) 100%);
+text-align: left;
+text-indent: 50px;
+color: #FFFFFF;
+font-weight: bolder;
+
+}
